@@ -10,11 +10,11 @@
 ### **Módulo 6:** ML OPS
 
 
-Código feito no google colab.
+-Código feito no google colab.
 
-Cada arquivo ipynb corresponde ao conteúdo do módulo.
+-Cada arquivo ipynb corresponde ao conteúdo do módulo.
 
-Alguns arquivos foram reenviados depois de uma limpeza dos metadados para poder ser visualizado a saída das células e estão com o nome "limpo" depois do número do módulo.
+-Alguns arquivos foram reenviados depois de uma limpeza dos metadados para poder ser visualizado a saída das células e estão com o nome "limpo" depois do número do módulo.
 
-Quatro arquivos são do desafio proposto ao fim do curso.
+-Quatro arquivos são do desafio proposto ao fim do curso.
 
